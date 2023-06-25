@@ -2,6 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
   <p>j'ai écrit ce p dans ma cool feature branch</p>
+  <p>j'ai ecrit dans un nouveau commit depuis ma cool feature branch</p>
 </template>
 
 <script>
